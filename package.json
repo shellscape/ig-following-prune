@@ -1,0 +1,23 @@
+{
+  "name": "ig-following-prune",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shellscape/ig-following-prune.git"
+  },
+  "author": "Andrew Powell (andrew@shellscape.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shellscape/ig-following-prune/issues"
+  },
+  "homepage": "https://github.com/shellscape/ig-following-prune#readme",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "path": "^0.12.7",
+    "request": "^2.74.0",
+    "underscore": "^1.8.3",
+    "yargs": "^4.8.1"
+  }
+}
